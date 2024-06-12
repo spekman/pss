@@ -1,7 +1,7 @@
 # pss
 Pokémon Storage System
 
-Sistema de armazenamente 
+Sistema de armazenamento de Pokémon que simula o presente nos jogos.
 
 ### Funcionalidades
 
@@ -43,13 +43,14 @@ $ node .
 # O servidor inciará na porta:4000 - acesse <http://localhost:4000>
 ```
 
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
-- [MySQL](https://www.mysql.com/)
-- []
+- [MySQL Workbench](https://www.mysql.com/)
+- [mysqljs](https://www.npmjs.com/package/mysql)
+- [Express](https://www.npmjs.com/package/express)
 
 # Créditos
 
