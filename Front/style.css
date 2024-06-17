@@ -1,7 +1,7 @@
 html {
   overflow: hidden;
   cursor: url('/Front/assets/cursor.ico'), default;
-  zoom: 120%;
+  zoom: 150%;
 }
 
 .pokemon-card {
@@ -28,20 +28,17 @@ html {
 }
 
 #box {
-
-  width: 240px;
+  width: 230px;
   background: url("/Front/assets/box.png");
   background-repeat: no-repeat;
-  background-size: 240px;
+  background-size: contain;
   table-layout: fixed;
 }
 
-#box td {
-  height: 30px;
-  width: 40px;
+#box td.header {
+  height: 20px;
 }
 
 #sidebar {
   margin-left: 30px;
-  size: 10%;
 }

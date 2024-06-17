@@ -1,16 +1,15 @@
 # pss
 Pokémon Storage System
 
-Sistema de armazenamento de Pokémon que simula o presente nos jogos.
+![](Front/assets/gif.gif)
 
 ### Funcionalidades
 
-- [x] Pesquisa e inserção de Pokémon (151) na Box
+- [x] Pesquisa e inserção de Pokémon (1ª geração) na Box
 - [x] Função de dar apelido para o Pokémon
 - [x] Função de remover Pokémon
 - [ ] Múltiplas 'boxes' com nome e papel de parede personalizado
-- [ ] Função de mover Pokémon
-- [ ] Função de visualizar sumário do Pokémon
+- [ ] Função de mover e visualizar sumário do Pokémon
 
 ### Pré-requisitos
 
