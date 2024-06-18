@@ -1,6 +1,9 @@
 # pss
 Pokémon Storage System
 
+Trabalho da matéria Laboratório de Banco de Dados com objetivo de integrar um banco de dados relacional à uma interface web
+Integrantes do grupo: Felipe Spekman Andrade, Hudson Junior de Rodrigues Silva, Murilo Muniz Araújo
+
 ![](Front/assets/gif.gif)
 
 ### Funcionalidades
@@ -51,7 +54,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [mysqljs](https://www.npmjs.com/package/mysql)
 - [Express](https://www.npmjs.com/package/express)
 
-# Créditos
+
+## Créditos
 
 https://learn-co-curriculum.github.io/js-pokemon-search-practice-assignment/ Sistema de search
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/ Estrutura do readme
