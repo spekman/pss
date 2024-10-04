@@ -3,7 +3,6 @@ Pokémon Storage System
 
 Trabalho da matéria Laboratório de Banco de Dados com objetivo de integrar um banco de dados relacional à uma interface web
 \
-Integrantes do grupo: Felipe Spekman Andrade, Hudson Junior de Rodrigues Silva, Murilo Muniz Araújo
 
 ![](Front/assets/gif.gif)
 
