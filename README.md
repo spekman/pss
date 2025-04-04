@@ -1,9 +1,6 @@
 # pss
 Pokémon Storage System
 
-Trabalho da matéria Laboratório de Banco de Dados com objetivo de integrar um banco de dados relacional à uma interface web
-\
-
 ![](Front/assets/gif.gif)
 
 ### Funcionalidades
@@ -60,5 +57,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Créditos
 
 https://learn-co-curriculum.github.io/js-pokemon-search-practice-assignment/ Sistema de search
-/
+
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/ Estrutura do readme
